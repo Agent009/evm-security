@@ -1,0 +1,16 @@
+# IDE files
+.idea
+
+# Environment variables
+.env
+
+# Cache
+**/__pycache__/**
+
+# Temporary data files
+!data/.gitkeep
+data/
+!generated/.gitkeep
+generated/
+
+venv
